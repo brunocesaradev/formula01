@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    
+}
+.img-fluid{
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+h1,h2 {
+    background-color: black;
+    color: white;
+    background-image: url(bandeira2.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+ul{
+    list-style: none;
+}
+
+p{
+    letter-spacing: 2px;
+    text-align: justify;
+    text-align: center;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(170, 170, 34);
+}
+
+p {
+    line-height: 2;
+    text-indent: 10%;
+}
